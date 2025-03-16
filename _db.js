@@ -1,9 +1,9 @@
 let games = [
-    { id: '1', title: 'Zelda.', platform: ['NES'] },
-    { id: '2', title: 'The Legend of Zelda', platform: ['NES'] },
-    { id: '3', title: 'Super Mario World', platform: ['NES'] },
-    { id: '4', title: 'Super Mario Bros. 3', platform: ['NES'] },    
-    { id: '5', title: 'Super Mario Bros. 2', platform: ['NES'] },
+    { id: '1', title: 'Zelda.', platform: ['Xbox'] },
+    { id: '2', title: 'The Legend of Zelda', platform: ['PS5'] },
+    { id: '3', title: 'Super Mario World', platform: ['PS5', 'Xbox'] },
+    { id: '4', title: 'Super Mario Bros. 3', platform: ['Switch'] },    
+    { id: '5', title: 'Super Mario Bros. 2', platform: ['Switch', 'Xbox'] },
 ]
 
 let authors = [
